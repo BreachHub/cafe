@@ -1,0 +1,8 @@
+{
+  "name": "The Amor Panem Café",
+  "description": "Artisanal café, bakery & kitchen in Kapashera, New Delhi. Handcrafted coffee, freshly baked sourdough & pastries, gourmet burgers, pizzas, and hearty meals. Order on WhatsApp: +91 70424 73307.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

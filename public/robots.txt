@@ -1,0 +1,6 @@
+# robots.txt for The Amor Panem (Kapashera, New Delhi)
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://theamorpanem.com/sitemap.xml
